@@ -28,3 +28,5 @@ pip install torch transformers  #first load it through your trminal.
 #run the chatbot
 python interface.py
 
+
+VIDEO LINK : https://drive.google.com/file/d/1P2oz57LEal0K37hwJSOK2iZ9X9nowelI/view?usp=drivesdk
